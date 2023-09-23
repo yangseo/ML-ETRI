@@ -3,7 +3,7 @@
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
-import iris_scatter
+from iris_scatter import iris_scatter
 import sklearn
 from sklearn.datasets import load_iris
 import matplotlib.pyplot as plt
